@@ -1,0 +1,107 @@
+item {
+    id: 1
+    name: 'Apple'
+}
+
+item {
+    id: 2
+    name: 'Bell Pepper'
+}
+item {
+    id: 3
+    name: 'Mango'
+}
+
+item {
+    id: 4
+    name: 'Onion'
+}
+
+item {
+    id: 5
+    name: 'Orange'
+}
+
+item {
+    id: 6
+    name: 'Pear'
+}
+item {
+    id: 7
+    name: 'Pineapple'
+}
+
+item {
+    id: 8
+    name: 'Kiwi'
+}
+
+item {
+    id: 9
+    name: 'Potato'
+}
+
+item {
+    id: 10
+    name: 'Sweet Potato'
+}
+
+item {
+    id: 11
+    name: 'Tomato'
+}
+
+item {
+    id: 12
+    name: 'WaterMelon'
+}
+
+item {
+    id: 13
+    name: 'Cabbage'
+}
+
+item {
+    id: 14
+    name: 'Carrots'
+}
+
+item {
+    id: 15
+    name: 'Cauliflower'
+}
+
+item {
+    id: 16
+    name: 'Chili Pepper'
+}
+
+item {
+    id: 17
+    name: 'Corn'
+}
+
+item {
+    id: 18
+    name: 'Eggplant'
+}
+
+item {
+    id: 19
+    name: 'Garlic'
+}
+
+item {
+    id: 20
+    name: 'Ginger'
+}
+
+item {
+    id: 21
+    name: 'Grapes'
+}
+
+item {
+    id: 22
+    name: 'Lemon'
+}
